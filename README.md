@@ -1,5 +1,3 @@
-![SumoBot](https://github.com/Universidad-Cenfotec/Sumobot/blob/main/imagenes/SumobotBanner2025.png)
-
 # Sumobot
 
 Sumobot is an educational robot project designed to enhance computing learning in schools. This repository is my personal fork of the original project developed by **Universidad Cenfotec.**
@@ -12,7 +10,17 @@ This project uses the [IdeaBoard](https://github.com/CRCibernetica/circuitpython
 
 The robot assembly includes a custom robotics shield designed by Universidad Cenfotec (by Professor Tomás de Camino Beck) in collaboration with CrCibernética. This shield can be purchased on its own [here](https://www.crcibernetica.com/sumobot-shield/), or as part of a complete kit that includes the acrylic structure, wiring, and other components [here](https://www.crcibernetica.com/sumobot-universidad-cenfotec/).
 
+## Repository Contents
 
+- [Robot Assembly Guide (Spanish)](./armado_2025.md)
+- [Wiring Diagram (Spanish) – SumoBot](./Conexiones%20SumoBot.pdf)
+- [License](./LICENSE)
+
+### Media
+
+- `images/pictures/`: Photos of the assembled bot or its assembly process.
+- `images/stickers/`: Visuals of the stickers used for customization.
+- Other images in the `images/` folder include reference diagrams, logos, and documentation visuals.
 
 ---
 
